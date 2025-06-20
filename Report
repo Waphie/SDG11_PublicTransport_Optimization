@@ -1,0 +1,18 @@
+Report
+Optimizing Public Transport Routes for Sustainable Cities with AI
+SDG 11 – Sustainable Cities and Communities
+
+Problem
+Urban areas often suffer from inefficient public transport routes, leading to traffic congestion, longer commute times, and increased pollution. Optimizing these routes can improve accessibility, reduce emissions, and enhance the quality of urban life.
+
+Approach
+This project applies K-Means clustering, an unsupervised machine learning technique, to group bus stops based on their geographic coordinates. These clusters represent potential optimized routes or service zones, allowing transit planners to redesign routes effectively.
+
+Results
+The clustering algorithm successfully grouped the bus stops into three meaningful clusters, each representing a distinct route or service area. Visualizations include scatter plots and an interactive map showing cluster groupings, which can guide decision-making for route optimization.
+
+Ethical Considerations
+The model emphasizes equitable service distribution by geographically grouping stops; however, human oversight is necessary to ensure underserved areas are not neglected. Privacy is maintained by using only anonymized stop location data. The project promotes sustainability by contributing to reduced emissions through efficient transit planning.
+
+Conclusion
+Machine learning clustering techniques offer scalable, data-driven methods to optimize public transport networks. This approach supports sustainable urban development, improved commuter experiences, and environmental benefits.
